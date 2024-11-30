@@ -1,0 +1,3 @@
+- **Definition:** The percentage of data packets lost during transmission across a network. 
+- **Importance:** High loss degrades performance and may require retransmission, increasing latency. 
+- **Example:** A loss rate of 0.1% on a network indicates one in every 1,000 packets is lost.

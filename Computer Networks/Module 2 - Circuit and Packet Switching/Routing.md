@@ -1,0 +1,3 @@
+- **Definition:** The process of determining the optimal path for data to travel across a network. 
+- **Importance:** Efficient routing minimizes latency, avoids congestion, and ensures reliable delivery. 
+- **Example:** Protocols like OSPF or BGP determine the best routes on the internet.

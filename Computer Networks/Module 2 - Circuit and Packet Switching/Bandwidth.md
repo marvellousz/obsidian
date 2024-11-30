@@ -1,0 +1,3 @@
+- **Definition:** The maximum amount of data that can be transmitted over a network in a given time, measured in bits per second (bps). 
+- **Importance:** Determines the potential speed of data transfer. 
+- **Example:** A 1 Gbps network can theoretically transfer 1 gigabit of data per second.

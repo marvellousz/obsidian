@@ -1,0 +1,3 @@
+- **Definition:** The rate at which requests or data packets arrive at a system or server, often measured in requests per second (RPS). 
+- **Importance:** Helps in capacity planning and load balancing. 
+- **Example:** A web server might handle 100 RPS during peak traffic.

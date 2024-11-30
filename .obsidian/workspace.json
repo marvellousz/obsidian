@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "2590d3858b04a472",
+    "type": "split",
+    "children": [
+      {
+        "id": "61a9ed7195815428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72bd30dd626d62a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5551eddf9561a5e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d695e975dea46040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ac7859414c41574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c62c69210a5f374",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "350e69c31e21f13e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ba991363d0838b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "690c2a6dedee98fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246df10344e8d702",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Networks/Switching.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Switching"
+            }
+          },
+          {
+            "id": "2d90a4c294aa8bfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Networks/Switching.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Switching"
+            }
+          },
+          {
+            "id": "46f82fd65630b9ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2c2ee049f41b1994",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Networks/Switching.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Switching"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ac7859414c41574",
+  "lastOpenFiles": [
+    "Computer Networks/Images/Pasted image 20241130223704.png",
+    "Computer Networks/Images/Pasted image 20241130223338.png",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Problems.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Propagation and Transmission Delay.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Transmission Impairment.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Arrival Rate.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Throughput.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Routing.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Loss.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Bandwidth.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Utilization.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Response Time.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Latency.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Switching.md",
+    "Computer Networks/Module 7 - Application layer",
+    "Computer Networks/Images/Pasted image 20241130223350.png",
+    "Computer Networks/Images/Pasted image 20241130223924.png",
+    "Computer Networks/Images/Pasted image 20241130223915.png",
+    "Computer Networks/Images/Pasted image 20241130223844.png",
+    "Computer Networks/Images/Pasted image 20241130223834.png",
+    "Computer Networks/Images/Pasted image 20241130223822.png",
+    "Computer Networks/Images/Pasted image 20241130223811.png",
+    "Computer Networks/Images/Pasted image 20241130223800.png",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Shannon Hartley Theorem.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Bandwidth Delay Product.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching/Layering.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Networking Protocols.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/TCP OR IP.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Types of Network.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Wired and Wireless.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Network Topologies.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Data Flow.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Components of Computer Network.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Components of Communication Model.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Classification of Computer Networks.md",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture/Characteristics of Communication Model.md",
+    "Computer Networks/Module 2 - Circuit and Packet Switching",
+    "Computer Networks/Module 1 - Networking Principles and Layered Architecture",
+    "Computer Networks/Images",
+    "TCP",
+    "Computer Networks"
+  ]
+}
