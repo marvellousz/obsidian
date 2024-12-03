@@ -1,3 +1,0 @@
-- **Definition:** The total time a system takes to respond to a user’s request, including processing time and network latency. 
-- **Importance:** It reflects the system's efficiency, critical for interactive applications. 
-- **Example:** The time it takes for a website to load after clicking a link.

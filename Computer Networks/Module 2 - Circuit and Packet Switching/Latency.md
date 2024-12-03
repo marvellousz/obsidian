@@ -1,3 +1,0 @@
-- **Definition:** The time it takes for a data packet to travel from the source to the destination across a network. 
-- **Importance:** Low latency is critical for applications like video conferencing or gaming. 
-- **Factors Affecting It:** Network distance, routing hops, and network congestion.

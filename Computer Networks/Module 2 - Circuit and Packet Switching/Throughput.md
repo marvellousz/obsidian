@@ -1,3 +1,0 @@
-- **Definition:** The amount of data successfully transmitted over a network in a given period, typically measured in bits per second (bps). 
-- **Importance:** Indicates the network's capacity to handle data traffic.
-- **Example:** A 100 Mbps connection can handle up to 100 million bits per second under ideal conditions.

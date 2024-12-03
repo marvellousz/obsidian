@@ -1,3 +1,0 @@
-- **Definition:** The ratio of a resource’s actual usage to its total capacity, expressed as a percentage. 
-- **Importance:** High utilization can indicate resource efficiency but may lead to bottlenecks if it approaches 100%. 
-- **Example:** A CPU running at 80% utilization is working effectively but has some capacity left for additional tasks.

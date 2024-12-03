@@ -1,3 +1,0 @@
-- **Definition:** The ability of a system or network to consistently perform its intended function without failures. 
-- **Importance:** High reliability ensures user trust and reduces downtime. 
-- **Example:** A server with 99.9% reliability has a downtime of around 43 minutes per month.
