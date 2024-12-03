@@ -4,199 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "61a9ed7195815428",
+        "id": "59ee820e8ac10083",
         "type": "tabs",
         "children": [
           {
-            "id": "f72bd30dd626d62a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ec28e0f27faa5f08",
+            "id": "71563717ea92fa1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networks/Module 7 - Application layer/Domain.md",
+                "file": "System Design/TCP & UDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain"
+              "title": "TCP & UDP"
             }
           },
           {
-            "id": "0b2e6c93c43265d1",
+            "id": "9128f147f782a483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networks/Module 7 - Application layer/Zone.md",
+                "file": "System Design/DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zone"
-            }
-          },
-          {
-            "id": "c2e42da3246c48e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/Zone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zone"
-            }
-          },
-          {
-            "id": "fc92dbb0e9daad02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/FTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FTP"
-            }
-          },
-          {
-            "id": "a01110541e9bd5fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/HTTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTTP"
-            }
-          },
-          {
-            "id": "57c46959dd5ef10a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/SMTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SMTP"
-            }
-          },
-          {
-            "id": "835a73ceafa85c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "ec6ddc5c1a5a27ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/DNS Resolution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNS Resolution"
-            }
-          },
-          {
-            "id": "a817e8e9f36cdea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/DNS Messages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNS Messages"
-            }
-          },
-          {
-            "id": "fa308f5abef63867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/Registrars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Registrars"
-            }
-          },
-          {
-            "id": "b1c63d789ac6dc85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application layer/DDNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DDNS"
-            }
-          },
-          {
-            "id": "8b42eeb8d5651681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networks/Module 7 - Application Layer/Security of DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security of DNS"
-            }
-          },
-          {
-            "id": "8da06fe4ba4a475d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DNS"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -339,6 +179,14 @@
   },
   "active": "3ac7859414c41574",
   "lastOpenFiles": [
+    "System Design/TCP & UDP.md",
+    "System Design/DNS.md",
+    "System Design/Networking Basics.md",
+    "System Design/Design Requirements.md",
+    "System Design/Computer Architecture.md",
+    "System Design/Application Architecture.md",
+    "System Design",
+    "Pasted image 20241201162119.png",
     "Pasted image 20241201181159.png",
     "Pasted image 20241201191242.png",
     "Pasted image 20241201192830.png",
@@ -364,18 +212,12 @@
     "Pasted image 20241201184600.png",
     "Pasted image 20241201184546.png",
     "Pasted image 20241201184509.png",
-    "Pasted image 20241201162841.png",
     "Computer Networks/Module 8 - Transport Layer/TCP.md",
     "Computer Networks/Module 3 - Data Link Layer",
     "Computer Networks/Module 8 - Transport Layer/UDP.md",
     "Computer Networks/Module 8 - Transport Layer/Introduction.md",
     "Computer Networks/Module 8 - Transport Layer",
     "Computer Networks/Module 2 - Circuit and Packet Switching/Propagation and Transmission Delay.md",
-    "Computer Networks/Module 2 - Circuit and Packet Switching/Transmission Impairment.md",
-    "Computer Networks/Module 2 - Circuit and Packet Switching/Arrival Rate.md",
-    "Computer Networks/Module 2 - Circuit and Packet Switching/Throughput.md",
-    "Computer Networks/Module 2 - Circuit and Packet Switching/Routing.md",
-    "Computer Networks/Module 2 - Circuit and Packet Switching/Loss.md",
     "Computer Networks/Module 7 - Application Layer",
     "Computer Networks/Module 2 - Circuit and Packet Switching",
     "Computer Networks/Module 1 - Networking Principles and Layered Architecture",
