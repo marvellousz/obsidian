@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Message Queues.md",
+                "file": "System Design/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Message Queues"
+              "title": "API"
             }
           }
         ]
@@ -162,33 +162,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ac7859414c41574",
+  "active": "e83c0f2be87a1801",
   "lastOpenFiles": [
-    "System Design/Object Storage.md",
-    "System Design/Message Queues.md",
-    "System Design/CAP Theorem.md",
-    "System Design/API.md",
     "System Design/API Design.md",
     "System Design/Application Architecture.md",
     "System Design/Caching.md",
-    "System Design/Consistent Hashing.md",
+    "System Design/CAP Theorem.md",
+    "System Design/CDN.md",
     "System Design/Computer Architecture.md",
+    "System Design/Consistent Hashing.md",
     "System Design/Design Requirements.md",
-    "System Design/Networking Basics.md",
+    "System Design/DNS.md",
     "System Design/HTTP.md",
+    "System Design/Message Queues.md",
+    "System Design/Networking Basics.md",
     "System Design/NoSQL.md",
+    "System Design/Object Storage.md",
     "System Design/Proxies & Load Balancers.md",
     "System Design/Replication and Sharding.md",
     "System Design/SQL.md",
+    "System Design/TCP & UDP.md",
     "System Design/WebSocket.md",
+    "System Design/API.md",
     "Untitled 1.md",
-    "System Design/CDN.md",
     "System Design/Images",
     "System Design/Images/Pasted image 20241206151813.png",
     "System Design/Images/Pasted image 20241206151828.png",
     "System Design/Images/Pasted image 20241206151843.png",
-    "System Design/TCP & UDP.md",
-    "System Design/DNS.md",
     "System Design",
     "Pasted image 20241201162119.png",
     "Pasted image 20241201181159.png",

@@ -44,4 +44,4 @@ The **CAP theorem**, proposed by Eric Brewer, states that a distributed system c
 ### CA System Example:
 - **MySQL**: On a single server (no partition tolerance), MySQL ensures strong consistency and availability.
 
----
+

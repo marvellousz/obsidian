@@ -39,6 +39,6 @@
 - **Logging and Metrics:** Servers generate logs and metrics to monitor activity and performance.
 - **Metrics to Alerts:** Alerts are triggered based on predefined thresholds in performance metrics.
 
----
+
 
 

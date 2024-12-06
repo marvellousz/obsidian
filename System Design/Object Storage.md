@@ -110,4 +110,3 @@
 3. **APIs**:
    - Provide access to objects through RESTful endpoints.
 
----

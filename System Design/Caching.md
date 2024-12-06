@@ -44,5 +44,5 @@ When the cache is full, older or less-used data is evicted to make room for new 
 - **LFU (Least Frequently Used)**:  
   Removes data that has been accessed the least number of times.
 
----
+
 

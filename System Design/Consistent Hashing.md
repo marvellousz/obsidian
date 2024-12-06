@@ -76,4 +76,4 @@
 - **Load Balancing**: Distributes requests evenly across servers in web server clusters.  
 - **Distributed Databases**: Used in systems like Cassandra, DynamoDB, and Amazon S3 for data partitioning.
 
----
+

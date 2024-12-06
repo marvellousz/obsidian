@@ -114,6 +114,4 @@ A **message queue** is a software component that enables asynchronous communicat
    - Messages are delivered and processed exactly once.  
    - Most reliable but resource-intensive.
 
----
 
-Message queues are critical for building scalable, resilient, and decoupled distributed systems, especially in microservice architectures.

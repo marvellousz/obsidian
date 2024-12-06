@@ -95,6 +95,3 @@ In distributed systems, **replication** and **sharding** are often used together
 - Social media platforms: Managing billions of user accounts and posts.
 - IoT applications: Handling large volumes of sensor data.
 
----
-
-

@@ -66,5 +66,3 @@
     ```
     Output: Shows the IP address or other DNS details of the domain.
 
----
-

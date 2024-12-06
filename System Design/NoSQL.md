@@ -81,6 +81,3 @@
 - **IoT Applications**: Managing sensor data with high write throughput.  
 - **Real-Time Applications**: Messaging systems, recommendation engines, and social networks.
 
----
-
-
