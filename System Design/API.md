@@ -69,9 +69,7 @@
     "isStudent": false
   }
 ```
-# GraphQL and gRPC
-
-## 1. GraphQL
+## 8. GraphQL
 - **Definition**: A query language for APIs and a runtime for executing those queries against your data.
 - **Purpose**: Provides a flexible and efficient alternative to REST APIs by allowing clients to request exactly the data they need.
 
@@ -117,7 +115,7 @@
 
 ---
 
-## 2. gRPC (Google Remote Procedure Call)
+## 9. gRPC (Google Remote Procedure Call)
 - **Definition**: A high-performance, open-source framework developed by Google for enabling communication between distributed systems using Remote Procedure Calls (RPC).
 - **Purpose**: Allows a client to directly call methods on a server as if it were a local object.
 
