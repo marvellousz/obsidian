@@ -11,10 +11,14 @@
             "id": "4cee5dd9b9fabc7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Jupyter Notebooks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Jupyter Notebooks"
             }
           }
         ]
@@ -158,11 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ac7859414c41574",
+  "active": "4cee5dd9b9fabc7a",
   "lastOpenFiles": [
+    "Machine Learning/Logistic Regreession.md",
+    "Machine Learning/Overfitting and Regularization.md",
+    "Machine Learning/Advanced Linear Regression.md",
+    "System Design/WebSocket.md",
     "System Design/TCP & UDP.md",
     "System Design/SQL.md",
-    "System Design/WebSocket.md",
     "System Design/Replication and Sharding.md",
     "System Design/Proxies & Load Balancers.md",
     "System Design/Object Storage.md",
@@ -175,14 +182,11 @@
     "System Design/Application Architecture.md",
     "System Design/API Design.md",
     "System Design/API.md",
-    "Machine Learning/Advanced Linear Regression.md",
     "Machine Learning/Multiple Linear Regression.md",
-    "Machine Learning/Overfitting and Regularization.md",
     "Machine Learning/Supervised Learning.md",
     "Machine Learning/Unsupervised Learning.md",
     "Machine Learning/Jupyter Notebooks.md",
     "Machine Learning/Linear Regression.md",
-    "Machine Learning/Logistic Regreession.md",
     "Machine Learning/Machine Learning.md",
     "Machine Learning",
     "System Design/Caching.md",

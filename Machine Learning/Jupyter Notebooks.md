@@ -6,7 +6,7 @@
 
 1. **Interactive Coding**:
     
-    - You can write and execute code in chunks (cells) interactively.
+    - You can write and execute code in chunks (cells) very interactively.
     - Supports multiple languages through "kernels," but Python is the most commonly used.
 2. **Rich Text and Media Support**:
     
