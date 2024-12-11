@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb96fb523f314e2f",
+        "id": "50f777b4aaba0fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "e83c0f2be87a1801",
+            "id": "4cee5dd9b9fabc7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Design/API.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "API"
+              "title": "New tab"
             }
           }
         ]
@@ -162,29 +158,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e83c0f2be87a1801",
+  "active": "3ac7859414c41574",
   "lastOpenFiles": [
+    "System Design/TCP & UDP.md",
+    "System Design/SQL.md",
+    "System Design/WebSocket.md",
+    "System Design/Replication and Sharding.md",
+    "System Design/Proxies & Load Balancers.md",
+    "System Design/Object Storage.md",
+    "System Design/Networking Basics.md",
+    "System Design/Message Queues.md",
+    "System Design/DNS.md",
+    "System Design/Consistent Hashing.md",
+    "System Design/Computer Architecture.md",
+    "System Design/CAP Theorem.md",
+    "System Design/Application Architecture.md",
     "System Design/API Design.md",
     "System Design/API.md",
-    "System Design/Application Architecture.md",
+    "Machine Learning/Advanced Linear Regression.md",
+    "Machine Learning/Multiple Linear Regression.md",
+    "Machine Learning/Overfitting and Regularization.md",
+    "Machine Learning/Supervised Learning.md",
+    "Machine Learning/Unsupervised Learning.md",
+    "Machine Learning/Jupyter Notebooks.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Logistic Regreession.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning",
     "System Design/Caching.md",
-    "System Design/CAP Theorem.md",
     "System Design/CDN.md",
-    "System Design/Computer Architecture.md",
-    "System Design/Consistent Hashing.md",
-    "System Design/Design Requirements.md",
-    "System Design/DNS.md",
-    "System Design/HTTP.md",
-    "System Design/Message Queues.md",
-    "System Design/Networking Basics.md",
-    "System Design/NoSQL.md",
-    "System Design/Object Storage.md",
-    "System Design/Proxies & Load Balancers.md",
-    "System Design/Replication and Sharding.md",
-    "System Design/SQL.md",
-    "System Design/TCP & UDP.md",
-    "System Design/WebSocket.md",
-    "Untitled 1.md",
     "System Design/Images",
     "System Design/Images/Pasted image 20241206151813.png",
     "System Design/Images/Pasted image 20241206151828.png",
@@ -195,11 +197,6 @@
     "Pasted image 20241201191242.png",
     "Pasted image 20241201192830.png",
     "Pasted image 20241201193257.png",
-    "Error Detection and Correction.md",
-    "Computer Networks/Module 2 - Circuit and Packet Switching/Shannon Hartley Theorem.md",
-    "Computer Networks/Module 2 - Circuit and Packet Switching/Problems.md",
-    "Computer Networks/Module 7 - Application Layer/DDNS.md",
-    "Computer Networks/Module 7 - Application Layer/Domain.md",
     "Pasted image 20241201185426.png",
     "Pasted image 20241201185400.png",
     "Computer Networks/Module 3 - Data Link Layer",
@@ -208,7 +205,6 @@
     "Computer Networks/Module 2 - Circuit and Packet Switching",
     "Computer Networks/Module 1 - Networking Principles and Layered Architecture",
     "Computer Networks/Images",
-    "TCP",
-    "Computer Networks"
+    "TCP"
   ]
 }
