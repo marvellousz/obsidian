@@ -1,7 +1,7 @@
 # Consistent Hashing
 
 ## 1. What is Consistent Hashing?
-**Consistent hashing** is a distributed hashing technique designed to evenly distribute data across nodes in a system while minimizing disruption when nodes are added or removed. It is widely used in distributed systems such as caching, load balancing, and distributed databases.
+**Consistent Hashing** is a distributed hashing technique designed to evenly distribute data across nodes in a system while minimizing disruption when nodes are added or removed. It is widely used in distributed systems such as caching, load balancing, and distributed databases.
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Jupyter Notebooks.md",
+                "file": "System Design/Consistent Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jupyter Notebooks"
+              "title": "Consistent Hashing"
             }
           }
         ]
@@ -164,6 +164,8 @@
   },
   "active": "4cee5dd9b9fabc7a",
   "lastOpenFiles": [
+    "System Design/API.md",
+    "Machine Learning/Jupyter Notebooks.md",
     "Machine Learning/Logistic Regreession.md",
     "Machine Learning/Overfitting and Regularization.md",
     "Machine Learning/Advanced Linear Regression.md",
@@ -181,11 +183,9 @@
     "System Design/CAP Theorem.md",
     "System Design/Application Architecture.md",
     "System Design/API Design.md",
-    "System Design/API.md",
     "Machine Learning/Multiple Linear Regression.md",
     "Machine Learning/Supervised Learning.md",
     "Machine Learning/Unsupervised Learning.md",
-    "Machine Learning/Jupyter Notebooks.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Machine Learning.md",
     "Machine Learning",
