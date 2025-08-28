@@ -1,0 +1,7 @@
+- Real-time communication refers to the continuous exchange of data with minimal latency
+- Challenges of traditional request-response HTTP model
+- Use alternatives like:
+	- [[Polling]]
+	- [[WebSockets]]
+	- Server-Sent Events
+	- Long Polling

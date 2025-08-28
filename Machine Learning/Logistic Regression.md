@@ -1,7 +1,9 @@
 ## 1. Overview
+
 Logistic regression is a classification algorithm used to predict the probability of a binary outcome (e.g., 0 or 1, True or False).
 
 ### Model Representation
+
 The logistic regression model predicts the probability $P(y=1|x)$ using the **sigmoid function**:
 $$
 h_\theta(x) = \frac{1}{1 + e^{-\theta^T x}}
@@ -14,6 +16,7 @@ Where:
 ---
 
 ## 2. Sigmoid Function
+
 The sigmoid function is used to map any real number to a value between 0 and 1.
 
 ### Formula
@@ -22,6 +25,7 @@ $$
 $$
 
 ### Properties
+
 - $\sigma(z) \to 1$ as $z \to \infty$.
 - $\sigma(z) \to 0$ as $z \to -\infty$.
 - $\sigma(z) = 0.5$ when $z = 0$.
@@ -31,24 +35,30 @@ The sigmoid function ensures the output is interpretable as a probability.
 ---
 
 ## 3. Decision Boundary
+
 The decision boundary is the threshold at which the predicted probability transitions from one class to another.
 
 ### Rule
+
 - If $h_\theta(x) \geq 0.5$, predict class 1 ($y=1$).
 - If $h_\theta(x) < 0.5$, predict class 0 ($y=0$).
 
 ### Decision Boundary in Terms of $z$
+
 The decision boundary corresponds to $z = \theta^T x = 0$. 
 
 ### Interpretation
+
 The decision boundary is a hyperplane (line in 2D, plane in 3D, etc.) separating the two classes.
 
 ---
 
 ## 4. Cost Function for Logistic Regression
+
 The cost function measures the difference between the predicted probabilities and the actual outcomes.
 
 ### Loss Function for One Training Example
+
 For a single training example $(x^{(i)}, y^{(i)})$, the loss is:
 $$
 \text{Loss} = 
@@ -59,6 +69,7 @@ $$
 $$
 
 ### Combined Cost Function
+
 The overall cost function for $m$ examples is:
 $$
 J(\theta) = -\frac{1}{m} \sum_{i=1}^m \left[ y^{(i)} \log(h_\theta(x^{(i)})) + (1 - y^{(i)}) \log(1 - h_\theta(x^{(i)})) \right]
@@ -71,15 +82,18 @@ This formulation ensures:
 ---
 
 ## 5. Gradient Descent for Logistic Regression
+
 Gradient descent is used to minimize the cost function $J(\theta)$ by updating the parameters $\theta$.
 
 ### Gradient of the Cost Function
+
 The partial derivative of $J(\theta)$ with respect to $\theta_j$ is:
 $$
 \frac{\partial J(\theta)}{\partial \theta_j} = \frac{1}{m} \sum_{i=1}^m \left( h_\theta(x^{(i)}) - y^{(i)} \right) x_j^{(i)}
 $$
 
 ### Update Rule
+
 For each parameter $\theta_j$, update using:
 $$
 \theta_j := \theta_j - \alpha \frac{\partial J(\theta)}{\partial \theta_j}
@@ -91,6 +105,7 @@ Where:
 ---
 
 ## 6. Algorithm for Logistic Regression
+
 1. **Initialize Parameters**:
    - Set $\theta = [0, 0, \dots, 0]$ or small random values.
 
@@ -105,6 +120,7 @@ Where:
 ---
 
 ## 7. Example
+
 Suppose we have the following data:
 
 | $x_1$ (Hours Studied) | $y$ (Pass/Fail) |

@@ -1,4 +1,5 @@
 ## Model Representation
+
 The equation for multiple linear regression is:
 
 $y = w_0 + w_1 x_1 + w_2 x_2 + \dots + w_n x_n$
@@ -15,9 +16,11 @@ Where:
 ---
 
 ## Vectorization
+
 Vectorization allows efficient computation by using matrix operations, avoiding explicit loops.
 
 ### Key Matrix Operations
+
 1. **Predictions**:
    $\hat{y} = X \cdot w$
 
@@ -33,9 +36,11 @@ Vectorization allows efficient computation by using matrix operations, avoiding 
 ---
 
 ## Gradient Descent for Multiple Linear Regression
+
 Gradient descent is used to minimize the cost function by iteratively updating the weights.
 
 ### Update Rule
+
 For each iteration:
 
 $w := w - \alpha \cdot \nabla J(w)$
@@ -49,6 +54,7 @@ Where:
 ---
 
 ## Gradient Descent Algorithm
+
 1. **Initialize Weights**:
    - Set all weights $w$ to small random values or zero.
 
@@ -63,6 +69,7 @@ Where:
 ---
 
 ## Example
+
 Suppose you have the following data:
 
 | $x_1$ (Hours Studied) | $x_2$ (Sleep Hours) | $y$ (Score) |
@@ -73,6 +80,7 @@ Suppose you have the following data:
 | 4                     | 5                   | 70          |
 
 ### Step 1: Prepare Matrices
+
 - Input Matrix $X$ (add a bias column of 1s):
   $$
   X = 
@@ -107,6 +115,7 @@ $$
 Start with $w = [0, 0, 0]^T$.
 
 ### Step 3: Gradient Descent
+
 - Compute $\hat{y} = X \cdot w$.
 - Compute gradient: $\nabla J(w) = \frac{1}{m} \cdot X^T \cdot (X \cdot w - y)$.
 - Update $w$ using the gradient descent rule.
@@ -114,6 +123,7 @@ Start with $w = [0, 0, 0]^T$.
 ---
 
 ## Advantages of Vectorization
+
 1. **Efficiency**:
    - Matrix operations are highly optimized in libraries like NumPy.
 

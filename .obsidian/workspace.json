@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fef3dea2183257d2",
+        "id": "5105bf8f09147ea9",
         "type": "tabs",
         "children": [
           {
-            "id": "d610e285308d5c30",
+            "id": "b7b21213af43d240",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "System Design/System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Design"
             }
           }
         ]
@@ -151,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,33 +164,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d610e285308d5c30",
+  "active": "b7b21213af43d240",
   "lastOpenFiles": [
+    "System Design/Database and Storage.md",
+    "System Design/System Design.md",
+    "System Design/CAP Theorem.md",
+    "System Design/Autoscaling.md",
+    "System Design/Load Balancers.md",
+    "System Design/Scalability.md",
+    "Machine Learning/Unsupervised Learning.md",
+    "Machine Learning/Supervised Learning.md",
+    "Machine Learning/Overfitting and Regularization.md",
+    "Machine Learning/Multiple Linear Regression.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Logistic Regression.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Jupyter Notebooks.md",
+    "Machine Learning/Advanced Linear Regression.md",
+    "System Design/Web Concepts.md",
+    "System Design/Web Sessions.md",
+    "System Design/WebSockets.md",
+    "System Design/Vertical Scalability.md",
+    "System Design/UDP.md",
+    "System Design/TCP.md",
+    "System Design/Software Architecture Patterns & Styles.md",
+    "System Design/Serialization.md",
+    "System Design/REST.md",
+    "System Design/Real-Time Communication.md",
+    "System Design/Proxy.md",
+    "Data Structures & Algorithms",
+    "System Design",
     "System Design/Images/Pasted image 20241206151843.png",
     "System Design/Images/Pasted image 20241206151828.png",
     "System Design/Images/Pasted image 20241206151813.png",
-    "System Design/CAP Theorem.md",
-    "System Design/TCP & UDP.md",
-    "System Design/NoSQL.md",
-    "System Design/Application Architecture.md",
-    "System Design/API.md",
-    "Machine Learning/Overfitting and Regularization.md",
-    "Machine Learning/Multiple Linear Regression.md",
-    "Machine Learning/Logistic Regreession.md",
-    "Machine Learning/Linear Regression.md",
-    "System Design/SQL.md",
-    "Machine Learning/Supervised Learning.md",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Advanced Linear Regression.md",
-    "Neetcode 150/Arrays and Hashing.md",
-    "Machine Learning/Jupyter Notebooks.md",
-    "System Design/CDN.md",
-    "System Design/WebSocket.md",
-    "Valley AI/AWS Architecture.md",
-    "System Design/Caching.md",
-    "Valley AI/Sprint 1/Sprint 1.md",
     "Valley AI/Sprint 1",
-    "DSA/String.md",
     "Valley AI/Images/Pasted image 20250618004438.png",
     "Valley AI/Images/Pasted image 20250618004417.png",
     "Valley AI/Images/Pasted image 20250618004143.png",
@@ -195,17 +207,10 @@
     "Valley AI/Images/Pasted image 20250616211819.png",
     "Valley AI",
     "Neetcode 150/Image/Pasted image 20250610130459.png",
-    "Neetcode 150/Image/Pasted image 20250609224910.png",
     "Neetcode 150/Image",
     "Neetcode 150",
     "DSA/Images",
     "String",
-    "DSA",
-    "System Design/Replication and Sharding.md",
-    "System Design/Proxies & Load Balancers.md",
-    "System Design/DNS.md",
-    "System Design/HTTP.md",
-    "Machine Learning",
-    "System Design/Images"
+    "DSA"
   ]
 }
