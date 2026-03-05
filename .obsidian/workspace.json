@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrew Ng Course/Introduction to Machine Learning.md",
+                "file": "Dev Commands/Dev Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Machine Learning"
+              "title": "Dev Commands"
+            }
+          },
+          {
+            "id": "a29589406b2235fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common Systems/News Feed (Twitter or Insta).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "News Feed (Twitter or Insta)"
             }
           }
         ]
@@ -166,10 +180,13 @@
   },
   "active": "e405e2e0e399e6ce",
   "lastOpenFiles": [
+    "Andrew Ng Course/Introduction to Machine Learning.md",
+    "Common Systems/News Feed (Twitter or Insta).md",
+    "Dev Commands/Dev Commands.md",
+    "Dev Commands",
     "Untitled.canvas",
     "Untitled.base",
     "Common Systems/Pasted image 20250830001956.png",
-    "Andrew Ng Course/Introduction to Machine Learning.md",
     "Andrew Ng Course",
     "Common Systems/Pasted image 20250830001015.png",
     "Common Systems/Pasted image 20250829150104.png",
@@ -188,7 +205,6 @@
     "NFT Certificate System - Working Demo.md",
     "NFT-Based Certificate Issuer.md",
     "System Design/System Design.md",
-    "Common Systems/News Feed (Twitter or Insta).md",
     "Common Systems/URL Shortnener.md",
     "Common Systems/Ticketing System (BookMyShow).md",
     "System Design/DNS.md",
@@ -210,7 +226,6 @@
     "Valley AI/Images/Pasted image 20250618004025.png",
     "Valley AI/Images",
     "Valley AI",
-    "Neetcode 150/Image",
-    "Neetcode 150"
+    "Neetcode 150/Image"
   ]
 }
